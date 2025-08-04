@@ -28,7 +28,7 @@ The model is trained to detect the following banana leaf diseases:
 | Model            | YOLOv8 (Ultralytics)   |
 | Language         | Python                 |
 | Frontend         | HTML, CSS, JavaScript  |
-| Backend (optional) | Flask               |
+| Backend          | Python Flask               |
 | Platform         | Google Colab / jupyter Notebook           |
 
 ---
