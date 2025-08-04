@@ -29,7 +29,7 @@ The model is trained to detect the following banana leaf diseases:
 | Language         | Python                 |
 | Frontend         | HTML, CSS, JavaScript  |
 | Backend (optional) | Flask               |
-| Platform         | Google Colab/jupyter Notebook           |
+| Platform         | Google Colab / jupyter Notebook           |
 
 ---
 
